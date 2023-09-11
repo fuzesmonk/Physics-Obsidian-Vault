@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "115ba975b938bd9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e8140cc96b95616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "791b5d934fa65103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 210 Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bc9434840af544a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e25d457fec2610d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eaf6aea481f5928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082201096dffb52e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbbde427556e9352",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24d6b499cf4d897e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f5f43f93ad749f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee54afd6a5d11cea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4337c508247031a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c002bd9849b6353",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be29b22a774db520",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "118299baefa6eb90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2bc9434840af544a",
+  "lastOpenFiles": [
+    "Physics-Obsidian-Vault",
+    "Instantaneous Velocity.md",
+    "Motion.md",
+    "Average Velocity.md",
+    "Physics 210 Overview.md",
+    "Untitled.canvas",
+    "Physics 210/images/slapscar.png",
+    "Physics 210/Notes.tex",
+    "Physics 210/Notes.synctex.gz",
+    "Physics 210/Notes.log",
+    "Physics 210/Notes.aux",
+    "Physics 210/images",
+    "Physics 210"
+  ]
+}
