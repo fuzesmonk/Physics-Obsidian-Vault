@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 210 Overview.md",
+                "file": "Instantaneous Velocity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6564f0ae68f1d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Average and Instantaneous Acceleration.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Instantaneous Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Instantaneous Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Instantaneous Velocity.md"
+              }
             }
           }
         ]
@@ -151,13 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bc9434840af544a",
+  "active": "791b5d934fa65103",
   "lastOpenFiles": [
-    "Physics-Obsidian-Vault",
+    "Average and Instantaneous Acceleration.md",
     "Instantaneous Velocity.md",
     "Motion.md",
-    "Average Velocity.md",
     "Physics 210 Overview.md",
+    "Physics-Obsidian-Vault",
+    "Average Velocity.md",
     "Untitled.canvas",
     "Physics 210/images/slapscar.png",
     "Physics 210/Notes.tex",
