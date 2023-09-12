@@ -11,50 +11,11 @@
             "id": "2bc9434840af544a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motion/Motion with Constant Acceleration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1fc5f7f8c960c8b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
-          },
-          {
-            "id": "6b1cf94936931b64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motion/Average Acceleration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f5a96a2155fea9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motion/Instantaneous Acceleration.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motion/Motion with Constant Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motion/Motion with Constant Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Motion/Motion with Constant Acceleration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,30 +148,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1fc5f7f8c960c8b",
+  "active": "2bc9434840af544a",
   "lastOpenFiles": [
-    "Motion.md",
-    "Motion/Average Velocity.md",
-    "Motion",
+    "Homework/Decomposing Force Vectors Into Components.md",
+    "Excalidraw/DecompForceVectors.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Homework",
     "Physics 210 Overview.md",
     "Motion/Motion with Constant Acceleration.md",
-    "Motion/Instantaneous Acceleration.md",
     "Motion/Instantaneous Velocity.md",
+    "Motion/Instantaneous Acceleration.md",
+    "Motion/Average Velocity.md",
     "Motion/Average Acceleration.md",
+    "Motion",
+    "Motion.md",
     "Average acceleration.md",
     "Instantaneous acceleration.md",
     "Physics-Obsidian-Vault",
-    "Untitled.canvas",
     "Physics 210/images/slapscar.png",
     "Physics 210/Notes.tex",
     "Physics 210/Notes.synctex.gz",
