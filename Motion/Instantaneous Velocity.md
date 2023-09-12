@@ -1,5 +1,7 @@
-#Motion
-
+---
+tags:
+  - Motion
+---
 Defined as the velocity at a specific time or point along a path
 
 Called the limit of $\frac{\Delta{x}}{\Delta{t}}$ as $\Delta{t}$ approaches zero, found by taking the derivative of x with respect to t/

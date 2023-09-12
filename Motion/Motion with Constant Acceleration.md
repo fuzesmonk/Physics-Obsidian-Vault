@@ -1,5 +1,7 @@
-#Motion 
-
+---
+tags:
+  - Motion
+---
 When the velocity changes at the same rate throughout the motion
 
 Defined as: $v_x = v_{0x} + a_{x}t$

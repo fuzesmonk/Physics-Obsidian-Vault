@@ -2,8 +2,6 @@
 tags:
   - Motion
 ---
-
-
 The average velocity for an object in one axis, for example x, that is defined as the component of displacement $\Delta{x}$ divided by the time interval $\Delta{t}$ 
 
 Equation for finding average velocity: $v_{av,x}=\frac{x_2-x_1}{t_2-t_{1}}=\frac{\Delta{x}}{\Delta{t}}$
