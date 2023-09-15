@@ -3,5 +3,6 @@
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-git"
 ]
