@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 210 Overview.md",
+                "file": "Newton's Laws/Applications/Contact Force and Friction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 210 Overview.md",
+                "file": "Newton's Laws/Applications/Contact Force and Friction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 210 Overview.md",
+                "file": "Newton's Laws/Applications/Contact Force and Friction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 210 Overview.md"
+                "file": "Newton's Laws/Applications/Contact Force and Friction.md"
               }
             }
           },
@@ -177,9 +177,12 @@
   "active": "3ec9f3ba9dc6bf66",
   "lastOpenFiles": [
     "Newton's Laws.md",
-    "Newton's Laws/Third Law.md",
-    "Physics 210 Overview.md",
+    "Newton's Laws/Applications/Contact Force and Friction.md",
+    "Newton's Laws/Applications/Equilibrium.md",
     "Newton's Laws/First Law.md",
+    "Physics 210 Overview.md",
+    "Newton's Laws/Applications",
+    "Newton's Laws/Third Law.md",
     "Newton's Laws/Second Law.md",
     "Units.md",
     "Motion.md",
@@ -204,7 +207,6 @@
     "Physics 210/Notes.tex",
     "Physics 210/Notes.synctex.gz",
     "Physics 210/Notes.log",
-    "Physics 210/Notes.aux",
-    "Physics 210/images"
+    "Physics 210/Notes.aux"
   ]
 }

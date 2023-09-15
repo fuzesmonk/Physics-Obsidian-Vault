@@ -6,3 +6,4 @@ tags:
 [[Second Law]]: $\Sigma{\vec{F}}=m\vec{\textbf{a}}$ 
 [[Third Law]]: $\vec{F_{A\,on\,B}}=-\vec{F_{B\,on\,A}}$ 
 
+[[Equilibrium]]: $\Sigma{\vec{F}}=0$ 
