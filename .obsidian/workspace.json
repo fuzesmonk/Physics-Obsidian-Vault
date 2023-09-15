@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81867bcab2c398d9",
+            "id": "3ec9f3ba9dc6bf66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motion/Motion with Constant Acceleration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edbe090b1485b179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motion/Centripetal Acceleration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df049c18ca1b45a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Newton's Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef91e0f6cbc2e29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Units.md",
+                "file": "Physics 210 Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Motion",
+                "query": "tag:Newtons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Units.md",
+                "file": "Physics 210 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Units.md",
+                "file": "Physics 210 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Units.md"
+                "file": "Physics 210 Overview.md"
               }
             }
           },
@@ -185,7 +148,7 @@
             }
           },
           {
-            "id": "45462d1b6ac92027",
+            "id": "8ca7cc2995adafee",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -211,20 +174,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef91e0f6cbc2e29f",
+  "active": "3ec9f3ba9dc6bf66",
   "lastOpenFiles": [
     "Newton's Laws.md",
+    "Newton's Laws/Third Law.md",
+    "Physics 210 Overview.md",
+    "Newton's Laws/First Law.md",
+    "Newton's Laws/Second Law.md",
     "Units.md",
-    "Motion/Centripetal Acceleration.md",
-    "Newton's Laws",
+    "Motion.md",
     "Motion/Free Fall.md",
+    "Motion/Centripetal Acceleration.md",
     "Motion/Motion with Constant Acceleration.md",
+    "Untitled.canvas",
+    "Newton's Laws",
     "Motion/Instantaneous Velocity.md",
     "Excalidraw/DecompForceVectors.excalidraw.md",
-    "Untitled.canvas",
     "Homework/Decomposing Force Vectors Into Components.md",
-    "Motion.md",
-    "Physics 210 Overview.md",
     "Excalidraw",
     "Homework",
     "Motion/Instantaneous Acceleration.md",
