@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "937c6619d66b648f",
+        "id": "b18419c37536c84b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec9f3ba9dc6bf66",
+            "id": "dea8bb3b884cf768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton's Laws/Applications/Contact Force and Friction.md",
+                "file": "Motion/Motion in the Y Direction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton's Laws/Applications/Contact Force and Friction.md",
+                "file": "Motion/Motion in the Y Direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton's Laws/Applications/Contact Force and Friction.md",
+                "file": "Motion/Motion in the Y Direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton's Laws/Applications/Contact Force and Friction.md"
+                "file": "Motion/Motion in the Y Direction.md"
               }
             }
           },
@@ -174,39 +174,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ec9f3ba9dc6bf66",
+  "active": "dea8bb3b884cf768",
   "lastOpenFiles": [
-    "Newton's Laws.md",
+    "Physics 210 Overview.md",
+    "Motion.md",
+    "Motion/Motion in the Y Direction.md",
+    "Motion/Motion with Constant Acceleration.md",
+    "Motion/Instantaneous Acceleration.md",
+    "~$DropLab.xlsm",
+    "F6D53F00",
+    "A4C43F00",
+    "D0E23F00",
+    "E1C13F00",
+    "38013F00",
+    "E7A03F00",
+    "D7BF2F00",
+    "029D2F00",
+    "DropLab.xlsm",
     "Newton's Laws/Applications/Contact Force and Friction.md",
     "Newton's Laws/Applications/Equilibrium.md",
+    "Newton's Laws.md",
     "Newton's Laws/First Law.md",
-    "Physics 210 Overview.md",
-    "Newton's Laws/Applications",
     "Newton's Laws/Third Law.md",
     "Newton's Laws/Second Law.md",
     "Units.md",
-    "Motion.md",
-    "Motion/Free Fall.md",
     "Motion/Centripetal Acceleration.md",
-    "Motion/Motion with Constant Acceleration.md",
     "Untitled.canvas",
-    "Newton's Laws",
     "Motion/Instantaneous Velocity.md",
     "Excalidraw/DecompForceVectors.excalidraw.md",
     "Homework/Decomposing Force Vectors Into Components.md",
-    "Excalidraw",
-    "Homework",
-    "Motion/Instantaneous Acceleration.md",
     "Motion/Average Velocity.md",
     "Motion/Average Acceleration.md",
-    "Motion",
     "Average acceleration.md",
     "Instantaneous acceleration.md",
-    "Physics-Obsidian-Vault",
-    "Physics 210/images/slapscar.png",
-    "Physics 210/Notes.tex",
-    "Physics 210/Notes.synctex.gz",
-    "Physics 210/Notes.log",
-    "Physics 210/Notes.aux"
+    "Physics 210/images/slapscar.png"
   ]
 }

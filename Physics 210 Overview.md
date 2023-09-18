@@ -12,6 +12,7 @@ tags:
 1. Every object continues either at rest or at a constant speed in a straight line, unless it is force to change by an external force
 2. $\Sigma{\vec{F}}=m\vec{\textbf{a}}$ 
 3. $\vec{F_{A\,on\,B}}=-\vec{F_{B\,on\,A}}$ 
+[[Contact Force and Friction|Friction]]:  $\mu=\frac{v^{2}-v_{0}^{2}}{2gd}$ 
 
 
 [[Motion]]:
@@ -20,3 +21,4 @@ tags:
  $a_{av,x} = \frac{v_{2x}-v_{1x}}{t_2-t_1} = \frac{\Delta{x}}{\Delta{y}}$ 
  $a_{x} = \lim_{\Delta{t} \rightarrow 0}{\frac{\Delta{V_x}}{\Delta{t}}}$ 
  $x = x_0 + v_{0x}t + \frac{1}{2}a_{x}t^{2}$ 
+$a=\frac{v^{2}-v_{0}^{2}}{2S}$ 

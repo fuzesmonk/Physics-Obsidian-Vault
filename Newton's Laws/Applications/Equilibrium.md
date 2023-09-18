@@ -1,3 +1,7 @@
+---
+tags:
+  - NewtonsLaws
+---
 When an object is at rest **or moving with constant velocity**, the vector sum of all the forces acting on it **must** be zero
 
 Defined as: $\Sigma{\vec{F}}=0$ 
