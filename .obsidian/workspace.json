@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e8140cc96b95616",
+        "id": "5375e574a47d1efa",
         "type": "tabs",
         "children": [
           {
-            "id": "2bc9434840af544a",
+            "id": "af6010f3a56f716c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/DecompForceVectors.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/DecompForceVectors.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/DecompForceVectors.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/DecompForceVectors.excalidraw.md"
+              }
             }
           },
           {
@@ -158,10 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bc9434840af544a",
+  "active": "af6010f3a56f716c",
   "lastOpenFiles": [
     "Homework/Decomposing Force Vectors Into Components.md",
+    "2023-W37.md",
+    "Pasted image 20230912205114.png",
     "Excalidraw/DecompForceVectors.excalidraw.md",
+    "2023-09-12.md",
     "Excalidraw",
     "Untitled.canvas",
     "Homework",
