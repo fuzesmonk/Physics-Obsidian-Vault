@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5375e574a47d1efa",
+        "id": "b18419c37536c84b",
         "type": "tabs",
         "children": [
           {
-            "id": "af6010f3a56f716c",
+            "id": "dea8bb3b884cf768",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/DecompForceVectors.excalidraw.md"
+                "file": "Motion/Motion in the Y Direction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Motion",
+                "query": "tag:Newtons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/DecompForceVectors.excalidraw.md",
+                "file": "Motion/Motion in the Y Direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/DecompForceVectors.excalidraw.md",
+                "file": "Motion/Motion in the Y Direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/DecompForceVectors.excalidraw.md"
+                "file": "Motion/Motion in the Y Direction.md"
               }
             }
           },
@@ -144,13 +146,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "8ca7cc2995adafee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,33 +174,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af6010f3a56f716c",
+  "active": "dea8bb3b884cf768",
   "lastOpenFiles": [
-    "Homework/Decomposing Force Vectors Into Components.md",
-    "2023-W37.md",
-    "Pasted image 20230912205114.png",
-    "Excalidraw/DecompForceVectors.excalidraw.md",
-    "2023-09-12.md",
-    "Excalidraw",
-    "Untitled.canvas",
-    "Homework",
     "Physics 210 Overview.md",
+    "Motion.md",
+    "Motion/Motion in the Y Direction.md",
     "Motion/Motion with Constant Acceleration.md",
-    "Motion/Instantaneous Velocity.md",
     "Motion/Instantaneous Acceleration.md",
+    "~$DropLab.xlsm",
+    "F6D53F00",
+    "A4C43F00",
+    "D0E23F00",
+    "E1C13F00",
+    "38013F00",
+    "E7A03F00",
+    "D7BF2F00",
+    "029D2F00",
+    "DropLab.xlsm",
+    "Newton's Laws/Applications/Contact Force and Friction.md",
+    "Newton's Laws/Applications/Equilibrium.md",
+    "Newton's Laws.md",
+    "Newton's Laws/First Law.md",
+    "Newton's Laws/Third Law.md",
+    "Newton's Laws/Second Law.md",
+    "Units.md",
+    "Motion/Centripetal Acceleration.md",
+    "Untitled.canvas",
+    "Motion/Instantaneous Velocity.md",
+    "Excalidraw/DecompForceVectors.excalidraw.md",
+    "Homework/Decomposing Force Vectors Into Components.md",
     "Motion/Average Velocity.md",
     "Motion/Average Acceleration.md",
-    "Motion",
-    "Motion.md",
     "Average acceleration.md",
     "Instantaneous acceleration.md",
-    "Physics-Obsidian-Vault",
-    "Physics 210/images/slapscar.png",
-    "Physics 210/Notes.tex",
-    "Physics 210/Notes.synctex.gz",
-    "Physics 210/Notes.log",
-    "Physics 210/Notes.aux",
-    "Physics 210/images",
-    "Physics 210"
+    "Physics 210/images/slapscar.png"
   ]
 }
