@@ -7,3 +7,4 @@ tags:
 [[Third Law]]: $\vec{F_{A\,on\,B}}=-\vec{F_{B\,on\,A}}$ 
 
 [[Equilibrium]]: $\Sigma{\vec{F}}=0$ 
+[[Contact Force and Friction]]: $\mu=\frac{v^{2}-v_{0}^{2}}{2gd}$  

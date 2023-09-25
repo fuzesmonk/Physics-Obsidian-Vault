@@ -13,6 +13,15 @@ Motion is in the most basic of terms, the change of position in respect to time
 [[Motion with Constant Acceleration]]: $x = x_0 + v_{0x}t + \frac{1}{2}a_{x}t^{2}$ 
 [[Centripetal Acceleration]]: $a_{rad}=\frac{v^2}{R}$ 
 [[Motion in the Y Direction]]: $y=y_{0}+v_{0y}t-\frac{1}{2}gt^{2}$ 
+[[Projectile Motion]]: 
+Assuming $a_{x}=0$ and $a_{y}=-g$ :
+For X motion:
+$v_{x}=v_{0x}$
+$x=x_{0}+v_{0}t$ 
+
+For Y motion:
+$v_{y}=v_{0y}-gt$
+$y=y_{0}+v_{0}t-\frac{1}{2}gt^{2}$ 
 
 
 

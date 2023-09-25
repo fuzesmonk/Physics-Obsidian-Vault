@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Motion/Motion with Constant Acceleration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a03d7f91d5a4eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projectile Motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37c14acd69bc05ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Motion/Motion in the Y Direction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,12 +199,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dea8bb3b884cf768",
+  "active": "37c14acd69bc05ef",
   "lastOpenFiles": [
-    "Physics 210 Overview.md",
+    "~$eefallLab.docx",
     "Motion.md",
-    "Motion/Motion in the Y Direction.md",
+    "Physics 210 Overview.md",
+    "Projectile Motion.md",
     "Motion/Motion with Constant Acceleration.md",
+    "2023-09-12.md",
+    "2023-W37.md",
+    "Excalidraw/DecompForceVectors.excalidraw.md",
+    "Newton's Laws/Third Law.md",
+    "Newton's Laws/Applications/Contact Force and Friction.md",
+    "Newton's Laws.md",
+    "Motion/Motion in the Y Direction.md",
+    "Pasted image 20230912205114.png",
+    "Excalidraw",
     "Motion/Instantaneous Acceleration.md",
     "~$DropLab.xlsm",
     "F6D53F00",
@@ -190,18 +225,13 @@
     "E7A03F00",
     "D7BF2F00",
     "029D2F00",
-    "DropLab.xlsm",
-    "Newton's Laws/Applications/Contact Force and Friction.md",
     "Newton's Laws/Applications/Equilibrium.md",
-    "Newton's Laws.md",
     "Newton's Laws/First Law.md",
-    "Newton's Laws/Third Law.md",
     "Newton's Laws/Second Law.md",
     "Units.md",
     "Motion/Centripetal Acceleration.md",
     "Untitled.canvas",
     "Motion/Instantaneous Velocity.md",
-    "Excalidraw/DecompForceVectors.excalidraw.md",
     "Homework/Decomposing Force Vectors Into Components.md",
     "Motion/Average Velocity.md",
     "Motion/Average Acceleration.md",
