@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6a03d7f91d5a4eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motion/Motion in the Y Direction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "37c14acd69bc05ef",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,12 +189,14 @@
   },
   "active": "37c14acd69bc05ef",
   "lastOpenFiles": [
-    "Motion/Motion in the Y Direction.md",
+    "Motion/Motion with Constant Acceleration.md",
     "Motion/Projectile Motion.md",
+    "Motion/Motion in the Y Direction.md",
+    "DropLab.xlsx",
     "~$eefallLab.docx",
     "Motion.md",
     "Physics 210 Overview.md",
-    "Motion/Motion with Constant Acceleration.md",
+    "Projectile Motion.md",
     "2023-09-12.md",
     "2023-W37.md",
     "Excalidraw/DecompForceVectors.excalidraw.md",
@@ -223,7 +213,6 @@
     "E1C13F00",
     "38013F00",
     "E7A03F00",
-    "D7BF2F00",
     "Newton's Laws/Applications/Equilibrium.md",
     "Newton's Laws/First Law.md",
     "Newton's Laws/Second Law.md",
