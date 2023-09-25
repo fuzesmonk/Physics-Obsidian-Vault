@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motion/Motion in the Y Direction.md",
+                "file": "Projectile Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motion/Motion in the Y Direction.md",
+                "file": "Projectile Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motion/Motion in the Y Direction.md"
+                "file": "Projectile Motion.md"
               }
             }
           },
@@ -199,8 +199,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37c14acd69bc05ef",
+  "active": "6a03d7f91d5a4eb6",
   "lastOpenFiles": [
+    "Motion/Motion in the Y Direction.md",
     "~$eefallLab.docx",
     "Motion.md",
     "Physics 210 Overview.md",
@@ -212,7 +213,6 @@
     "Newton's Laws/Third Law.md",
     "Newton's Laws/Applications/Contact Force and Friction.md",
     "Newton's Laws.md",
-    "Motion/Motion in the Y Direction.md",
     "Pasted image 20230912205114.png",
     "Excalidraw",
     "Motion/Instantaneous Acceleration.md",
@@ -224,7 +224,6 @@
     "38013F00",
     "E7A03F00",
     "D7BF2F00",
-    "029D2F00",
     "Newton's Laws/Applications/Equilibrium.md",
     "Newton's Laws/First Law.md",
     "Newton's Laws/Second Law.md",
