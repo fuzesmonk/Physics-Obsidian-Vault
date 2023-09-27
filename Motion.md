@@ -1,6 +1,7 @@
 ---
 tags:
   - Motion
+  - TopLevel
 ---
 
 
@@ -23,5 +24,5 @@ For Y motion:
 $v_{y}=v_{0y}-gt$
 $y=y_{0}+v_{0}t-\frac{1}{2}gt^{2}$ 
 
-
+[[Linear Momentum|Impulse Momentum Theorem]]:  $F_{est}\cdot{t}=\Delta{\vec{p}}$ 
 
