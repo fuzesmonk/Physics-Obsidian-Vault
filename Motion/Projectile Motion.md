@@ -2,6 +2,17 @@
 tags:
   - Motion
 ---
+TL;DR
+Assuming $x_{0}=0$ and $a_{x}=0$
+$x=v_{0}\cos{\theta}t$ 
+$v_{x}=v_{0}\cos{\theta}$ 
+
+Assuming $a_{y}=g$ 
+$y=y_{0}+v_{0}\sin{\theta}+\frac{1}{2}gt^2$ 
+$v_{y}=v_{0}\sin{\theta}+gt$ 
+
+
+
 Assuming $a_{x}=0$ and $a_{y}=-g$ :
 For X motion:
 $v_{x}=v_{0x}$
