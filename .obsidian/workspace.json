@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motion/Projectile Motion.md",
+                "file": "Motion/Linear Momentum.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd6f652ce9177a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motion/Collisions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa6bbd3061059216",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4f5f43f93ad749f5",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motion/Projectile Motion.md",
+                "file": "Motion/Collisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motion/Projectile Motion.md",
+                "file": "Motion/Collisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motion/Projectile Motion.md"
+                "file": "Motion/Collisions.md"
               }
             }
           },
@@ -175,15 +195,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03312be7a30e5e07",
+  "active": "bd6f652ce9177a3c",
   "lastOpenFiles": [
     "Motion/Linear Momentum.md",
+    "Motion/Collisions.md",
+    "lab03.pdf",
+    "ProjectileMotionLab.xlsx",
+    "8A689000",
+    "Motion/Instantaneous Velocity.md",
     "Motion.md",
     "Physics 210 Overview.md",
+    "Motion/Projectile Motion.md",
     "Impulse-Momentum Theorem.md",
     "Motion/Motion in the Y Direction.md",
     "Motion/Motion with Constant Acceleration.md",
-    "Motion/Projectile Motion.md",
     "~$eefallLab.docx",
     "2023-09-12.md",
     "2023-W37.md",
@@ -199,16 +224,12 @@
     "A4C43F00",
     "D0E23F00",
     "E1C13F00",
-    "38013F00",
-    "E7A03F00",
-    "D7BF2F00",
     "Newton's Laws/Applications/Equilibrium.md",
     "Newton's Laws/First Law.md",
     "Newton's Laws/Second Law.md",
     "Units.md",
     "Motion/Centripetal Acceleration.md",
     "Untitled.canvas",
-    "Motion/Instantaneous Velocity.md",
     "Homework/Decomposing Force Vectors Into Components.md",
     "Motion/Average Velocity.md",
     "Motion/Average Acceleration.md",

@@ -22,7 +22,6 @@ tags:
  $a_{x} = \lim_{\Delta{t} \rightarrow 0}{\frac{\Delta{V_x}}{\Delta{t}}}$ 
  $x = x_0 + v_{0x}t + \frac{1}{2}a_{x}t^{2}$ 
  $a=\frac{v^{2}-v_{0}^{2}}{2S}$ 
-[[Projectile Motion]] 
 Assuming $a_{x}=0$ and $a_{y}=-g$ :
 For X motion:
 $v_{x}=v_{0x}$

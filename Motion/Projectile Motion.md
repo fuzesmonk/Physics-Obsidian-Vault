@@ -23,8 +23,7 @@ For Y motion:
 $v_{y}=v_{0y}-gt$
 $y=y_{0}+v_{0y}t-\frac{1}{2}gt^{2}$ 
 $(v_{fy})^{2}=(y_{0y})^{2}+2a_{y}\Delta{y}$ 
-
-
+	x
 To find $V_{x}$ and $V_{y}$:
 $V_{X}=V\cos{\Theta}$ 
 $V_{y}=V\sin{\Theta}$ 
