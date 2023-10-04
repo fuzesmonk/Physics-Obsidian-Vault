@@ -30,3 +30,7 @@ $x=x_{0}+v_{0}t$
 For Y motion:
 $v_{y}=v_{0y}-gt$
 $y=y_{0}+v_{0}t-\frac{1}{2}gt^{2}$ 
+
+[[Energy]] 
+$KE=\frac{1}{2}mv^{2}$ 
+

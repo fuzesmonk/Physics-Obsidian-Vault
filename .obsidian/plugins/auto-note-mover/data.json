@@ -17,6 +17,11 @@
       "folder": "Newton's Laws",
       "tag": "#NewtonsLaws",
       "pattern": ""
+    },
+    {
+      "folder": "Energy",
+      "tag": "#Energy",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "- [\"excalidraw-plugin\":",
+  "collapse-filter": false,
+  "search": "- [\"excalidraw-plugin\"]: ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -33,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 255,
   "scale": 0.47151711055419115,
-  "close": false
+  "close": true
 }

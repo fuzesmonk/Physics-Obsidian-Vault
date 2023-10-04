@@ -4,43 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b7af9746f2fec94e",
+        "id": "4a048d8a95c54471",
         "type": "tabs",
         "children": [
           {
-            "id": "03312be7a30e5e07",
+            "id": "9f2750384c0fb1af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motion/Linear Momentum.md",
+                "file": "Physics 210 Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd6f652ce9177a3c",
+            "id": "6714e57f8b8b3ade",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motion/Collisions.md",
+                "file": "Energy/Kinetic Energy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa6bbd3061059216",
+            "id": "cc65f1897dcad8f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Energy/Work.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motion/Collisions.md",
+                "file": "Energy/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motion/Collisions.md",
+                "file": "Energy/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motion/Collisions.md"
+                "file": "Energy/Work.md"
               }
             }
           },
@@ -195,17 +199,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd6f652ce9177a3c",
+  "active": "cc65f1897dcad8f9",
   "lastOpenFiles": [
+    "Labs/~$MomentumLab.xlsx",
+    "Energy/Kinetic Energy.md",
+    "Energy/Work.md",
+    "Motion.md",
+    "Energy.md",
+    "Physics 210 Overview.md",
+    "Labs/lab03.pdf",
+    "Motion/Average Velocity.md",
+    "Newton's Laws.md",
+    "Energy",
     "Motion/Linear Momentum.md",
     "Motion/Collisions.md",
-    "lab03.pdf",
+    "Motion/Projectile Motion.md",
     "ProjectileMotionLab.xlsx",
     "8A689000",
     "Motion/Instantaneous Velocity.md",
-    "Motion.md",
-    "Physics 210 Overview.md",
-    "Motion/Projectile Motion.md",
     "Impulse-Momentum Theorem.md",
     "Motion/Motion in the Y Direction.md",
     "Motion/Motion with Constant Acceleration.md",
@@ -215,7 +226,6 @@
     "Excalidraw/DecompForceVectors.excalidraw.md",
     "Newton's Laws/Third Law.md",
     "Newton's Laws/Applications/Contact Force and Friction.md",
-    "Newton's Laws.md",
     "Pasted image 20230912205114.png",
     "Excalidraw",
     "Motion/Instantaneous Acceleration.md",
@@ -223,18 +233,12 @@
     "F6D53F00",
     "A4C43F00",
     "D0E23F00",
-    "E1C13F00",
     "Newton's Laws/Applications/Equilibrium.md",
     "Newton's Laws/First Law.md",
     "Newton's Laws/Second Law.md",
     "Units.md",
     "Motion/Centripetal Acceleration.md",
     "Untitled.canvas",
-    "Homework/Decomposing Force Vectors Into Components.md",
-    "Motion/Average Velocity.md",
-    "Motion/Average Acceleration.md",
-    "Average acceleration.md",
-    "Instantaneous acceleration.md",
     "Physics 210/images/slapscar.png"
   ]
 }
