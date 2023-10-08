@@ -13,3 +13,4 @@ $\vec{J}=\vec{F}(t_{f}-t_{i})=\vec{F}\Delta{t}$
 
 Units: $kg\cdot{m/s}$ 
 
+See [[Impulse-Momentum Theory]] for connection to momentum

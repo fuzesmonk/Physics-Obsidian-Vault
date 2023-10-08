@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy/Impulse-Momentum Theory.md",
+                "file": "Energy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb87449c7a59eb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energy/Inelastic Collisions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy/Impulse-Momentum Theory.md",
+                "file": "Energy/Inelastic Collisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy/Impulse-Momentum Theory.md",
+                "file": "Energy/Inelastic Collisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy/Impulse-Momentum Theory.md"
+                "file": "Energy/Inelastic Collisions.md"
               }
             }
           },
@@ -199,18 +211,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f727133b49e4bcd6",
+  "active": "bb87449c7a59eb6c",
   "lastOpenFiles": [
     "Energy/Impulse.md",
     "Energy/Impulse-Momentum Theory.md",
-    "Physics 210 Overview.md",
     "Energy.md",
+    "Energy/Conservation of Momentum.md",
+    "Energy/Work.md",
+    "Physics 210 Overview.md",
     "Energy/Elastic Collisions.md",
     "Energy/Inelastic Collisions.md",
     "Energy/Linear Momentum.md",
     "Energy/Collisions.md",
-    "Energy/Conservation of Momentum.md",
-    "Energy/Work.md",
     "Energy/Kinetic Energy.md",
     "Labs/~$MomentumLab.xlsx",
     "Motion.md",
