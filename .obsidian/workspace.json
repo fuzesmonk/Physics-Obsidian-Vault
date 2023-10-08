@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f2750384c0fb1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 210 Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a526647dda28ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energy/Impulse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f727133b49e4bcd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bb87449c7a59eb6c",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,17 +176,17 @@
   },
   "active": "bb87449c7a59eb6c",
   "lastOpenFiles": [
-    "Energy/Impulse.md",
-    "Energy/Impulse-Momentum Theory.md",
-    "Energy.md",
+    "Energy/Kinetic Energy.md",
+    "Energy/Linear Momentum.md",
     "Energy/Conservation of Momentum.md",
+    "Energy/Impulse-Momentum Theory.md",
+    "Energy/Impulse.md",
     "Energy/Work.md",
+    "Energy/Inelastic Collisions.md",
+    "Energy.md",
     "Physics 210 Overview.md",
     "Energy/Elastic Collisions.md",
-    "Energy/Inelastic Collisions.md",
-    "Energy/Linear Momentum.md",
     "Energy/Collisions.md",
-    "Energy/Kinetic Energy.md",
     "Labs/~$MomentumLab.xlsx",
     "Motion.md",
     "Labs/lab03.pdf",
