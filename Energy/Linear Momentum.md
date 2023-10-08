@@ -1,7 +1,10 @@
 ---
 tags:
-  - Motion
+  - Energy
 ---
+When a object is moving in two directions, there is both a x and y component to the momentum
+They must be separated into its individual x,y,z components
+
 $a_x=\frac{v_{fx}-v_{0x}}{t}$ 
 $F_{est}=\frac{mv_{fx}-v_{0x}}{t}$ 
 $F_{est}\cdot{t}=m\vec{v_{fx}}-m\vec{v_{0x}}$   
