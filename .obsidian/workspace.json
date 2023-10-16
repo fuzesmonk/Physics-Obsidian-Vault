@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy/Inelastic Collisions.md",
+                "file": "Motion/Motion in the Y Direction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9550332b73b5a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energy/Work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy/Inelastic Collisions.md",
+                "file": "Energy/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy/Inelastic Collisions.md",
+                "file": "Energy/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy/Inelastic Collisions.md"
+                "file": "Energy/Work.md"
               }
             }
           },
@@ -174,21 +187,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb87449c7a59eb6c",
+  "active": "d9550332b73b5a47",
   "lastOpenFiles": [
     "Energy/Kinetic Energy.md",
+    "Energy/Elastic Collisions.md",
+    "Units.md",
+    "Motion.md",
+    "Motion/Motion in the Y Direction.md",
+    "Energy.md",
     "Energy/Linear Momentum.md",
+    "Energy/Work.md",
+    "Energy/Work-Energy Theorem.md",
+    "37379B00",
     "Energy/Conservation of Momentum.md",
+    "Energy/Inelastic Collisions.md",
     "Energy/Impulse-Momentum Theory.md",
     "Energy/Impulse.md",
-    "Energy/Work.md",
-    "Energy/Inelastic Collisions.md",
-    "Energy.md",
     "Physics 210 Overview.md",
-    "Energy/Elastic Collisions.md",
     "Energy/Collisions.md",
     "Labs/~$MomentumLab.xlsx",
-    "Motion.md",
     "Labs/lab03.pdf",
     "Motion/Average Velocity.md",
     "Newton's Laws.md",
@@ -198,7 +215,6 @@
     "8A689000",
     "Motion/Instantaneous Velocity.md",
     "Impulse-Momentum Theorem.md",
-    "Motion/Motion in the Y Direction.md",
     "Motion/Motion with Constant Acceleration.md",
     "~$eefallLab.docx",
     "2023-09-12.md",
@@ -208,11 +224,8 @@
     "Newton's Laws/Applications/Contact Force and Friction.md",
     "Pasted image 20230912205114.png",
     "Excalidraw",
-    "Motion/Instantaneous Acceleration.md",
     "~$DropLab.xlsm",
     "F6D53F00",
-    "A4C43F00",
-    "Newton's Laws/Applications/Equilibrium.md",
     "Untitled.canvas",
     "Physics 210/images/slapscar.png"
   ]

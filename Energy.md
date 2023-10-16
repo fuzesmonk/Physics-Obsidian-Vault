@@ -5,6 +5,7 @@ tags:
 ---
 Concepts:
 [[Conservation of Momentum]]: The total momentum of an isolated system $\vec{P_{sys}}$ does not change over time
+[[Linear Momentum|Impulse Momentum Theorem]]:  $F_{est}\cdot{t}=\Delta{\vec{p}}$ 
 
 [[Work]]:$W=\vec{F}{\cdot}\Delta{\vec{x}}$ 
 [[Kinetic Energy]]: $KE=\frac{1}{2}mv^{2}$ 
@@ -16,3 +17,4 @@ $V_{A,f}$ is the final velocity of object A
 $V_{B,f}$ is the final velocity of object b
 The initial velocity of object B is assumed to be zero as it is at rest
 [[Impulse]]:$\vec{J}=\vec{F}(t_{f}-t_{i})=\vec{F}\Delta{t}$ 
+[[Work-Energy Theorem]]: $W_{net}=KE_{f}-KE_{i}$ 
