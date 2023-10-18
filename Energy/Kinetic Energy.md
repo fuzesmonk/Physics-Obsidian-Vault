@@ -2,6 +2,8 @@
 tags:
   - Energy
 ---
+Movement Dependent
+
 Unit: Joule
 Defined as $J=\frac{kg{\cdot}m^{2}}{s^{2}}=N\cdot{m}$  
 

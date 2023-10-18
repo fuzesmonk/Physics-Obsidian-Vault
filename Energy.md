@@ -3,6 +3,8 @@ tags:
   - TopLevel
   - Energy
 ---
+Energy can neither be created or destroyed, only converted into different forms
+So the total energy of a system initially must equal the total energy of the system at any point after
 Concepts:
 [[Conservation of Momentum]]: The total momentum of an isolated system $\vec{P_{sys}}$ does not change over time
 [[Linear Momentum|Impulse Momentum Theorem]]:  $F_{est}\cdot{t}=\Delta{\vec{p}}$ 

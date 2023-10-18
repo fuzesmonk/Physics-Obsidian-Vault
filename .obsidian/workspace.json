@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4a048d8a95c54471",
+        "id": "c9d70a06174a7c77",
         "type": "tabs",
         "children": [
           {
-            "id": "bb87449c7a59eb6c",
+            "id": "65fc34f3e1686687",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motion/Motion in the Y Direction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9550332b73b5a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energy/Work.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Newtons",
+                "query": "tag:Top",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Energy/Work.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,16 +166,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9550332b73b5a47",
+  "active": "65fc34f3e1686687",
   "lastOpenFiles": [
+    "Torque/Radial Force.md",
+    "Torque/Radial Acceleration.md",
+    "Torque.md",
+    "Orbital Mechanics/Newton's Law of Gravitation.md",
+    "Orbital Mechanics/Weight.md",
+    "Orbital Mechanics/Gravitational Acceleration.md",
+    "Orbital Mechanics/Satellite Motion.md",
+    "Orbital Mechanics/Period of an orbit.md",
+    "Orbital Mechanics",
+    "Energy.md",
+    "Torque",
+    "Energy/Work.md",
+    "Energy/Potential Energy.md",
+    "Motion/Motion in the Y Direction.md",
     "Energy/Kinetic Energy.md",
     "Energy/Elastic Collisions.md",
     "Units.md",
     "Motion.md",
-    "Motion/Motion in the Y Direction.md",
-    "Energy.md",
     "Energy/Linear Momentum.md",
-    "Energy/Work.md",
     "Energy/Work-Energy Theorem.md",
     "37379B00",
     "Energy/Conservation of Momentum.md",
@@ -210,22 +200,11 @@
     "Motion/Average Velocity.md",
     "Newton's Laws.md",
     "Energy",
-    "Motion/Projectile Motion.md",
     "ProjectileMotionLab.xlsx",
     "8A689000",
-    "Motion/Instantaneous Velocity.md",
-    "Impulse-Momentum Theorem.md",
-    "Motion/Motion with Constant Acceleration.md",
     "~$eefallLab.docx",
-    "2023-09-12.md",
-    "2023-W37.md",
-    "Excalidraw/DecompForceVectors.excalidraw.md",
-    "Newton's Laws/Third Law.md",
-    "Newton's Laws/Applications/Contact Force and Friction.md",
     "Pasted image 20230912205114.png",
     "Excalidraw",
-    "~$DropLab.xlsm",
-    "F6D53F00",
     "Untitled.canvas",
     "Physics 210/images/slapscar.png"
   ]

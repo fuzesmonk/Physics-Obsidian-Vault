@@ -22,6 +22,16 @@
       "folder": "Energy",
       "tag": "#Energy",
       "pattern": ""
+    },
+    {
+      "folder": "Torque",
+      "tag": "#Torque",
+      "pattern": ""
+    },
+    {
+      "folder": "Orbital Mechanics",
+      "tag": "#OrbitalMechanics",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
