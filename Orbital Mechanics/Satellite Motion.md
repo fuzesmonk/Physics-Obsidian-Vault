@@ -10,3 +10,8 @@ Finding the velocity is as simple as moving variables around, giving the equatio
 Units: m/s
 $r$ is the orbit radius
 
+Acceleration of a satellite is: $a_{c}=\frac{{GM}}{R^{2}}$ 
+
+Escape Velocity: $v_{escape}=\pm \sqrt{\frac{GM}{R+H}}$
+
+

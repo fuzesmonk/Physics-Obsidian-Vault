@@ -16,3 +16,5 @@ $10^9$ Giga - G
 1 kg is 2.2 pounds
 
 1 Newton = $1 kg * 1 m/s^{2}$  
+Mass of Earth = $5.972*10^{24} kg$
+Radius of Earth = $6.371*10^{6} kg$

@@ -11,11 +11,64 @@
             "id": "65fc34f3e1686687",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Energy/Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b5b8bc1a9286e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torque.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2073f63297300a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orbital Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9143377462f24c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torque/Radial Force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3c0554bd078b87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newton's Laws/Contact Force and Friction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orbital Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orbital Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orbital Mechanics.md"
+              }
             }
           },
           {
@@ -166,45 +223,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65fc34f3e1686687",
+  "active": "2073f63297300a5e",
   "lastOpenFiles": [
-    "Torque/Radial Force.md",
-    "Torque/Radial Acceleration.md",
     "Torque.md",
-    "Orbital Mechanics/Newton's Law of Gravitation.md",
-    "Orbital Mechanics/Weight.md",
-    "Orbital Mechanics/Gravitational Acceleration.md",
+    "Orbital Mechanics.md",
+    "Untitled",
+    "Motion.md",
     "Orbital Mechanics/Satellite Motion.md",
+    "Orbital Mechanics/Gravitational Acceleration.md",
+    "Units.md",
+    "Orbital Mechanics/Weight.md",
     "Orbital Mechanics/Period of an orbit.md",
+    "Orbital Mechanics/Newton's Law of Gravitation.md",
+    "Torque/Centripetal Acceleration.md",
+    "Torque/Radial Force.md",
+    "Energy/Work.md",
+    "Energy/Work-Energy Theorem.md",
+    "Energy/Springs.md",
+    "Energy/Kinetic Energy.md",
+    "Energy/Potential Energy.md",
+    "Motion/Projectile Motion.md",
+    "Newton's Laws/Contact Force and Friction.md",
+    "Motion/Motion in the Y Direction.md",
+    "Energy/Linear Momentum.md",
+    "Energy/Power.md",
+    "Energy/Energy Conservation.md",
     "Orbital Mechanics",
     "Energy.md",
     "Torque",
-    "Energy/Work.md",
-    "Energy/Potential Energy.md",
-    "Motion/Motion in the Y Direction.md",
-    "Energy/Kinetic Energy.md",
     "Energy/Elastic Collisions.md",
-    "Units.md",
-    "Motion.md",
-    "Energy/Linear Momentum.md",
-    "Energy/Work-Energy Theorem.md",
     "37379B00",
     "Energy/Conservation of Momentum.md",
     "Energy/Inelastic Collisions.md",
-    "Energy/Impulse-Momentum Theory.md",
-    "Energy/Impulse.md",
-    "Physics 210 Overview.md",
-    "Energy/Collisions.md",
     "Labs/~$MomentumLab.xlsx",
     "Labs/lab03.pdf",
-    "Motion/Average Velocity.md",
-    "Newton's Laws.md",
     "Energy",
     "ProjectileMotionLab.xlsx",
     "8A689000",
     "~$eefallLab.docx",
     "Pasted image 20230912205114.png",
-    "Excalidraw",
     "Untitled.canvas",
     "Physics 210/images/slapscar.png"
   ]
