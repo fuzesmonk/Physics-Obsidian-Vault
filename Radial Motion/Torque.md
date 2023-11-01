@@ -2,7 +2,7 @@
 tags:
   - Torque
 ---
- Torque is the quantitative measurement of the tendency of a force to cause or change rotational motion around a chosen axis. It is the product of the magnitude of the force and the movement arm, which is the perpendicular distance between the axis and the line of action for the force
+Torque is the quantitative measurement of the tendency of a force to cause or change rotational motion around a chosen axis. It is the product of the magnitude of the force and the movement arm, which is the perpendicular distance between the axis and the line of action for the force
 
 Defined as: $\vec{\tau} = Fl$ / $\Sigma{\vec{\tau}}=I\vec{\alpha}$
 
