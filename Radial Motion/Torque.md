@@ -2,9 +2,15 @@
 tags:
   - Torque
 ---
-Torque is the quantitative measurement of the tendency of a force to cause or change rotational motion around a chosen axis. It is the product of the magnitude of the force and the movement arm, which is the perpendicular distance between the axis and the line of action for the force
+ Torque is the quantitative measurement of the tendency of a force to cause or change rotational motion around a chosen axis. It is the product of the magnitude of the force and the movement arm, which is the perpendicular distance between the axis and the line of action for the force
 
-Defined as: $\vec{\tau} = Fl$
+Defined as: $\vec{\tau} = Fl$ / $\Sigma{\vec{\tau}}=I\vec{\alpha}$
+
+$\Sigma\vec{\tau}$ is the sum of all the torques acting on an object
+$I$ is analogous to mass for rotation/spinning/shows show the mass of an object is spread out across its shape
+$\vec{\alpha}$ is angular acceleration
+
+
 
 Units: newton-meter
 Is a Vector

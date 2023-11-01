@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d70a06174a7c77",
+        "id": "64ac5799f99c8c47",
         "type": "tabs",
         "children": [
           {
-            "id": "ba0f2caffba0e8e3",
+            "id": "7e6c61d1e880dda7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radial Motion/Angular Momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d905f40ad9970fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radial Motion/Conservation of Angular Momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "479e54ee4150d32a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radial Motion/Angular Momentum of a Particle.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4f5f43f93ad749f5",
@@ -111,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radial Motion/Conservation of Angular Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radial Motion/Conservation of Angular Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Radial Motion/Conservation of Angular Momentum.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,35 +166,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ca7cc2995adafee",
+  "active": "082201096dffb52e",
   "lastOpenFiles": [
-    "Radial Motion/Moments of Intertia.md",
-    "Radial Motion/Angular Momentum.md",
-    "Radial Motion/Conservation of Angular Momentum.md",
-    "Radial Motion/Angular Momentum of a Particle.md",
-    "Radial Motion/Work in Torque.md",
-    "Radial Motion.md",
-    "Radial Motion/Power in Torque.md",
-    "Radial Motion/Torque.md",
     "Untitled.md",
+    "Radial Motion/Centripetal Acceleration.md",
+    "Radial Motion/Circular Motion.md",
+    "Radial Motion/Conservation of Angular Momentum.md",
+    "Radial Motion/Moments of Intertia.md",
+    "Radial Motion/Power in Torque.md",
+    "Radial Motion/Radial Force.md",
+    "Radial Motion/Angular Momentum of a Particle.md",
+    "Radial Motion/Torque.md",
+    "Radial Motion/Work in Torque.md",
+    "Orbital Mechanics.md",
+    "Radial Motion.md",
+    "Pasted image 20230912205114.png",
+    "Radial Motion/Angular Momentum.md",
+    "Motion.md",
     "Units.md",
     "Energy/Work-Energy Theorem.md",
     "Energy/Springs.md",
-    "Orbital Mechanics.md",
     "Untitled",
-    "Motion.md",
     "Orbital Mechanics/Satellite Motion.md",
     "Orbital Mechanics/Gravitational Acceleration.md",
     "Orbital Mechanics/Weight.md",
     "Orbital Mechanics/Period of an orbit.md",
     "Orbital Mechanics/Newton's Law of Gravitation.md",
-    "Radial Motion/Centripetal Acceleration.md",
-    "Radial Motion/Radial Force.md",
     "Energy/Work.md",
     "Energy/Kinetic Energy.md",
     "Energy/Potential Energy.md",
     "Motion/Projectile Motion.md",
-    "Newton's Laws/Contact Force and Friction.md",
     "Orbital Mechanics",
     "Radial Motion",
     "37379B00",
@@ -238,7 +205,6 @@
     "ProjectileMotionLab.xlsx",
     "8A689000",
     "~$eefallLab.docx",
-    "Pasted image 20230912205114.png",
     "Untitled.canvas",
     "Physics 210/images/slapscar.png"
   ]
