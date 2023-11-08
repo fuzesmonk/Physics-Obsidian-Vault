@@ -2,7 +2,7 @@
 tags:
   - Torque
 ---
-	Variables:
+Variables:
 $\omega$: Angular Velocity
 $\alpha$: Angular Acceleration / Must be $rad/s^{2}$
 
