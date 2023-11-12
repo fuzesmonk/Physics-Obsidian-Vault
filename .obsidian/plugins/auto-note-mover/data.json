@@ -32,6 +32,16 @@
       "folder": "Orbital Mechanics",
       "tag": "#OrbitalMechanics",
       "pattern": ""
+    },
+    {
+      "folder": "Simple Harmonic Oscilators",
+      "tag": "#SHO",
+      "pattern": ""
+    },
+    {
+      "folder": "Material Properties",
+      "tag": "#MatProps",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

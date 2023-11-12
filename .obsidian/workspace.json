@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "64ac5799f99c8c47",
+        "id": "6c4887db149a62ba",
         "type": "tabs",
         "children": [
           {
-            "id": "2244366b9be658bf",
+            "id": "32a12a426a1c28d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy/Conservation of Momentum.md",
+                "file": "Material Properties/Shear Stress.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af9922f186d51939",
+            "id": "5c74e30603dc6a51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radial Motion/Moments of Intertia.md",
+                "file": "Material Properties/Shear Strain.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ce7c0aac0e7f125",
+            "id": "83a065e9056599b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radial Motion/Circular Motion.md",
+                "file": "Material Properties/Shear Modulus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3bc8d8fc6fe5902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Harmonic Oscilators/Oscillation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radial Motion/Circular Motion.md",
+                "file": "Simple Harmonic Oscilators/Oscillation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radial Motion/Circular Motion.md",
+                "file": "Simple Harmonic Oscilators/Oscillation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radial Motion/Circular Motion.md"
+                "file": "Simple Harmonic Oscilators/Oscillation.md"
               }
             }
           },
@@ -207,13 +219,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ce7c0aac0e7f125",
+  "active": "f3bc8d8fc6fe5902",
   "lastOpenFiles": [
+    "Simple Harmonic Oscilators/Springs.md",
+    "Simple Harmonic Oscilators/Oscillation.md",
+    "Material Properties/Stress and Strain.md",
+    "Material Properties/Deformation.md",
+    "Material Properties/Shear Modulus.md",
+    "Material Properties/Shear Strain.md",
+    "Material Properties/Shear Stress.md",
+    "Material Properties/Volume Strain.md",
+    "Material Properties/Tensile Strain.md",
     "Radial Motion/Moments of Intertia.md",
+    "Energy/Conservation of Momentum.md",
+    "Material Properties/Tensile Strength.md",
+    "Material Properties/Bulk Modulus.md",
+    "Material Properties",
     "Radial Motion/Circular Motion.md",
+    "Simple Harmonic Oscilators",
     "Motion/Motion in the Y Direction.md",
     "Translational and Rotational Quantities Compared.md",
-    "Energy/Conservation of Momentum.md",
     "Radial Motion/Torque.md",
     "Energy/Impulse-Momentum Theory.md",
     "Radial Motion/Energy in Radial Motion.md",
@@ -224,19 +249,7 @@
     "Radial Motion/Angular Momentum of a Particle.md",
     "Energy.md",
     "Radial Motion/Power in Torque.md",
-    "Radial Motion/Conservation of Angular Momentum.md",
-    "Energy/Kinetic Energy.md",
-    "Orbital Mechanics/Satellite Motion.md",
-    "Energy/Energy Conservation.md",
-    "Energy/Elastic Collisions.md",
-    "Energy/Power.md",
-    "Energy/Potential Energy.md",
-    "Definition of Variables.md",
-    "Energy/Linear Momentum.md",
-    "Energy/Springs.md",
-    "Energy/Work.md",
     "Pasted image 20230912205114.png",
-    "Untitled",
     "Orbital Mechanics",
     "Radial Motion",
     "37379B00",
@@ -245,7 +258,6 @@
     "Energy",
     "ProjectileMotionLab.xlsx",
     "8A689000",
-    "~$eefallLab.docx",
     "Untitled.canvas",
     "Physics 210/images/slapscar.png"
   ]
