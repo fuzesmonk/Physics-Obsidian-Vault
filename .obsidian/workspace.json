@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Harmonic Oscilators/Simple Pendulum.md",
+                "file": "Simple Harmonic Oscilators/Energy in SHOs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "270d0fd1806bad2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material Properties/Young's Modulus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b26395b4dc0a052e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material Properties/Pascal's Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Harmonic Oscilators/Simple Pendulum.md",
+                "file": "Material Properties/Pascal's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Harmonic Oscilators/Simple Pendulum.md",
+                "file": "Material Properties/Pascal's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Harmonic Oscilators/Simple Pendulum.md"
+                "file": "Material Properties/Pascal's Law.md"
               }
             }
           },
@@ -219,36 +243,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "693acb32e72a11dd",
+  "active": "b26395b4dc0a052e",
   "lastOpenFiles": [
-    "Simple Harmonic Oscilators/Big Three Equations in SHOs.md",
+    "Material Properties/Young's Modulus.md",
+    "Material Properties/Pascal's Law.md",
+    "Material Properties/Shear Strain.md",
+    "Material Properties/Shear Modulus.md",
+    "Material Properties/Bulk Modulus.md",
+    "Simple Harmonic Oscilators/Energy in SHOs.md",
+    "Simple Harmonic Oscilators/Polar Motion in SHOs.md",
+    "Simple Harmonic Oscilators/Oscillation.md",
+    "Simple Harmonic Oscilators/Springs.md",
+    "Material Properties/Tensile Strength.md",
+    "Material Properties/Elastic Modulus A.K.A Hooke's Law.md",
+    "Material Properties/Stress and Strain.md",
     "Simple Harmonic Oscilators/Simple Pendulum.md",
     "Simple Harmonic Oscilators/Frequency & Period in SHOs.md",
-    "Simple Harmonic Oscilators/Polar Motion in SHOs.md",
+    "Simple Harmonic Oscilators/Big Three Equations in SHOs.md",
     "Simple Harmonic Oscilators/Motion in SHOs.md",
-    "Simple Harmonic Oscilators/Energy in SHOs.md",
     "Translational and Rotational Quantities Compared.md",
     "Material Properties/Shear Stress.md",
     "Definition of Variables.md",
-    "Simple Harmonic Oscilators/Oscillation.md",
-    "Simple Harmonic Oscilators/Springs.md",
-    "Material Properties/Stress and Strain.md",
     "Material Properties/Deformation.md",
-    "Material Properties/Shear Modulus.md",
-    "Material Properties/Shear Strain.md",
     "Material Properties/Volume Strain.md",
     "Material Properties/Tensile Strain.md",
     "Radial Motion/Moments of Intertia.md",
     "Energy/Conservation of Momentum.md",
-    "Material Properties/Tensile Strength.md",
-    "Material Properties/Bulk Modulus.md",
     "Material Properties",
     "Radial Motion/Circular Motion.md",
     "Simple Harmonic Oscilators",
     "Motion/Motion in the Y Direction.md",
-    "Radial Motion/Torque.md",
-    "Energy/Impulse-Momentum Theory.md",
-    "Radial Motion/Energy in Radial Motion.md",
     "Pasted image 20230912205114.png",
     "Orbital Mechanics",
     "Radial Motion",
