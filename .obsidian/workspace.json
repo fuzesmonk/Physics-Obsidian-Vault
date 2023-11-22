@@ -14,8 +14,29 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b790aed9facfbe12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "06d246d359f2e5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Harmonic Oscillators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Simple Harmonic Oscillators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Simple Harmonic Oscillators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Simple Harmonic Oscillators.md"
+              }
             }
           },
           {
@@ -166,8 +191,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2244366b9be658bf",
+  "active": "06d246d359f2e5f5",
   "lastOpenFiles": [
+    "Simple Harmonic Oscilators/Big Three Equations in SHOs.md",
+    "Simple Harmonic Oscillators.md",
+    "Material Properties/Material Properties.md",
     "Radial Motion/Circular Motion.md",
     "Standing_wave.gif",
     "Simple Harmonic Oscilators/Superposition of Waves.md",
@@ -185,7 +213,6 @@
     "Simple Harmonic Oscilators/Polar Motion in SHOs.md",
     "Simple Harmonic Oscilators/Frequency & Period in SHOs.md",
     "Simple Harmonic Oscilators/Energy in SHOs.md",
-    "Simple Harmonic Oscilators/Big Three Equations in SHOs.md",
     "Screenshot 2023-11-20 145135.png",
     "Pasted Image 20231120145041_573.png",
     "Material Properties/Young's Modulus.md",
@@ -197,7 +224,6 @@
     "Simple Harmonic Oscilators/Oscillation.md",
     "Simple Harmonic Oscilators",
     "Material Properties/Volume Strain.md",
-    "Material Properties/Tensile Strength.md",
     "Material Properties",
     "Pasted image 20230912205114.png",
     "Untitled",
