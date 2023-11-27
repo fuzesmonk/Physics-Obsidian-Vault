@@ -7,7 +7,7 @@ tags:
 [[Deformation]]:
 [[Elastic Modulus A.K.A Hooke's Law| Hooke's Law]]:
 [[Material Properties]]:
-[[Pascal's Law]]:
+[[Material Properties/Pascal's Law]]:
 [[Shear Modulus]]:
 [[Shear Strain]]:
 [[Shear Stress]]:
