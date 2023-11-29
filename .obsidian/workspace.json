@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "863b45f7c67fc0a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluid Mechanics/Fluid Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Top",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4f5f43f93ad749f5",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluid Mechanics/Fluid Flow.md",
+                "file": "Fluid Mechanics/Buoyancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluid Mechanics/Fluid Flow.md",
+                "file": "Fluid Mechanics/Buoyancy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluid Mechanics/Fluid Flow.md"
+                "file": "Fluid Mechanics/Buoyancy.md"
               }
             }
           },
@@ -220,21 +207,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "863b45f7c67fc0a9",
+  "active": "082201096dffb52e",
   "lastOpenFiles": [
+    "Fluid Mechanics/Pascal's Law.md",
+    "Fluid Mechanics/Surface Tension.md",
+    "Simple Harmonic Oscilators/Waves/Modes of Waves.md",
+    "Fluid Mechanics/Buoyancy.md",
+    "Newton's Laws/First Law.md",
+    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
+    "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
+    "Simple Harmonic Oscilators/Waves/Longitudinal Standing Waves.md",
+    "Fluid Mechanics/Fluid Flow.md",
+    "Fluid Mechanics/Density.md",
+    "Fluid Mechanics/Atmospheric Pressure.md",
     "tumblr_p0wwxoXFOi1qckzoqo1_540.webp",
     "2b414trmluj01.gif",
-    "Fluid Mechanics/Fluid Flow.md",
-    "Fluid Mechanics/Surface Tension.md",
-    "Fluid Mechanics/Buoyancy.md",
-    "Fluid Mechanics/Pascal's Law.md",
     "Pascal_s_law_Animated_and_explained_with_3d_program 1.mp4",
     "Pascal_s_law_Animated_and_explained_with_3d_program.mp4",
     "Fluid Mechanics/Variation of Pressure with Depth.md",
-    "Fluid Mechanics/Density.md",
     "Fluid Mechanics/Pressure in a Fluid.md",
     "Fluid Mechanics/Relative Density A.K.A Specific Gravity.md",
-    "Fluid Mechanics/Atmospheric Pressure.md",
     "Radial Motion/Torque.md",
     "Fluid Mechanics.md",
     "Fluid Mechanics",
@@ -248,15 +240,11 @@
     "Simple Harmonic Oscilators/Waves/Doppler Effect.md",
     "Images/Standing_wave.gif",
     "Images/Screenshot 2023-11-20 145135.png",
-    "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
-    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
     "Images/Pasted Image 20231120145041_573.png",
     "Images",
     "Images/Dopplereffectsourcemovingrightatmach0.7.gif",
     "Simple Harmonic Oscillators.md",
     "Simple Harmonic Oscilators/Waves/Superposition of Waves.md",
-    "Simple Harmonic Oscilators/Waves/Periodic Waves.md",
-    "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
     "Untitled.canvas",
     "Simple Harmonic Oscilators/Waves",
     "Material Properties",
