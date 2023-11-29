@@ -2,6 +2,8 @@
 tags:
   - FluidMechs
 ---
+Archimedes' Principle: The buoyant force on an object is equal to the weight of the fluid the object displaces
+
 Verbose: When an object is completely or partially immersed in a fluid, the fluid exerts an upward force on the object equal to the weight of the fluid that is displaced by the object
 
 Equation: $B=\rho_{fluid}\cdot V_{displaced}\cdot g$   

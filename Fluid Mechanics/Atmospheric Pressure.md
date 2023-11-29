@@ -12,4 +12,4 @@ $1.013$ bars
 $1013$ millibars
 $760$ millimeters of mercury
 
-Refer to [[Pressure in a Fluid]] for more in-depth explanation
+Refer to [[Hydrostatic Pressure]] for more in-depth explanation

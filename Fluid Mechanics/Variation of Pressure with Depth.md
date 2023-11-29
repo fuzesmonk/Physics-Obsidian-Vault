@@ -2,7 +2,7 @@
 tags:
   - FluidMechs
 ---
-Building upon [[Pressure in a Fluid]]:
+Building upon [[Hydrostatic Pressure]]:
 
 Since fluids have a weight, the amount of pressure exerted on an object by the fluid grows as the object goes deeper
 

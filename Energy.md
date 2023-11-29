@@ -10,6 +10,7 @@ Concepts:
 [[Linear Momentum|Impulse Momentum Theorem]]:  $F_{est}\cdot{t}=\Delta{\vec{p}}$ 
 
 [[Work]]:$W=\vec{F}{\cdot}\Delta{\vec{x}}$ 
+[[Energy Conservation]]:
 [[Kinetic Energy]]: $KE=\frac{1}{2}mv^{2}$ 
 [[Inelastic Collisions]]: $m_{A}(v_{1_{before}})+m_{B}(v_{2_{before}})=(m_{A}+m_{B})(V_{1,2_{after}})$  
 [[Elastic Collisions]]:
@@ -20,3 +21,5 @@ $V_{B,f}$ is the final velocity of object b
 The initial velocity of object B is assumed to be zero as it is at rest
 [[Impulse]]:$\vec{J}=\vec{F}(t_{f}-t_{i})=\vec{F}\Delta{t}$ 
 [[Work-Energy Theorem]]: $W_{net}=KE_{f}-KE_{i}$ 
+[[Potential Energy]]:
+[[Power]]:
