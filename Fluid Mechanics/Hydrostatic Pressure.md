@@ -9,8 +9,7 @@ $m=\rho V$
 $m$ is mass
 $V$ is volume
 $\rho$ is [[Density|density]]
-
-
+ 
 Function: $P=\frac{F_{\pm}}{A}$, $F_{\pm}=PA$
 Units: $\frac{N}{m^{2}}$ or $Pa$
 

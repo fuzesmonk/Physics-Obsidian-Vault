@@ -11,11 +11,24 @@
             "id": "ae9531542c37fbb3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Harmonic Oscillators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e7161d0633b64b4",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,18 +187,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae9531542c37fbb3",
+  "active": "9e7161d0633b64b4",
   "lastOpenFiles": [
-    "Energy.md",
-    "Fluid Mechanics.md",
-    "Fluid Mechanics/Fluid Flow.md",
+    "Simple Harmonic Oscillators.md",
     "Physics 210 Overview.md",
+    "Radial Motion.md",
+    "Orbital Mechanics.md",
+    "Newton's Laws.md",
+    "Fluid Mechanics.md",
+    "Waves.md",
+    "Fluid Mechanics/Hydrostatic Pressure.md",
+    "Motion/Projectile Motion.md",
+    "Energy.md",
+    "Fluid Mechanics/Fluid Flow.md",
     "Fluid Mechanics/Variation of Pressure with Depth.md",
     "Fluid Mechanics/Surface Tension.md",
     "Fluid Mechanics/Relative Density A.K.A Specific Gravity.md",
     "Fluid Mechanics/Pascal's Law.md",
     "Fluid Mechanics/Buoyancy.md",
-    "Fluid Mechanics/Hydrostatic Pressure.md",
     "Fluid Mechanics/Density.md",
     "Fluid Mechanics/Atmospheric Pressure.md",
     "Images/Pascal_s_law_Animated_and_explained_with_3d_program.mp4",
@@ -201,12 +220,6 @@
     "Fluid Mechanics",
     "Radial Motion/Circular Motion.md",
     "Radial Motion/Power in Torque.md",
-    "Energy/Kinetic Energy.md",
-    "Motion/Motion in the Y Direction.md",
-    "Motion/Average Velocity.md",
-    "Motion/Average Acceleration.md",
-    "Motion.md",
-    "Simple Harmonic Oscilators/Waves/Doppler Effect.md",
     "Images/Standing_wave.gif",
     "Images/Screenshot 2023-11-20 145135.png",
     "Images/Pasted Image 20231120145041_573.png",

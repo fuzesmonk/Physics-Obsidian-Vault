@@ -8,6 +8,9 @@ tags:
 1 km is 1093.61 yards
 1 kg is 2.2 pounds
 
+[[Definition of Variables]]:
+
+
 [[Newton's Laws]]:
 1. Every object continues either at rest or at a constant speed in a straight line, unless it is force to change by an external force
 2. $\Sigma{\vec{F}}=m\vec{\textbf{a}}$ 
@@ -34,7 +37,12 @@ $y=y_{0}+v_{0}t-\frac{1}{2}gt^{2}$
 [[Energy]] 
 $KE=\frac{1}{2}mv^{2}$ 
 
+
+[[Orbital Mechanics]]:
+
+
 [[Material Properties]]
 
+[[Simple Harmonic Oscillators]]
 
 [[Fluid Mechanics]]

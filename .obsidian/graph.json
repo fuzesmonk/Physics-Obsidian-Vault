@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Motion  ",
@@ -48,6 +48,20 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "tag:#Torque  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#OrbitalMechanics  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +74,6 @@
   "repelStrength": 8.125,
   "linkStrength": 0.723958333333333,
   "linkDistance": 30,
-  "scale": 0.4069229255705127,
-  "close": false
+  "scale": 0.22357113950972166,
+  "close": true
 }
