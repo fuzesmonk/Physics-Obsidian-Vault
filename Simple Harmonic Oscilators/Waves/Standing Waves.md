@@ -3,7 +3,7 @@ tags:
   - SHO
   - Waves
 ---
-![[Standing_wave.gif]]
+	![[Standing_wave.gif]]
 
 Verbose: Standing waves are when the wave pattern does not appear to be moving in either direction along a string
 

@@ -52,6 +52,11 @@
       "folder": "Fluid Mechanics",
       "tag": "#FluidMechs",
       "pattern": ""
+    },
+    {
+      "folder": "Temperature and Heat",
+      "tag": "#TempHeat",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

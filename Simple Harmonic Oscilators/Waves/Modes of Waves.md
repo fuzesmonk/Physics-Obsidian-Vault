@@ -18,7 +18,7 @@ In pipes:
 Normal: $f_{n}=n*\frac{v}{2L}=nf_{1}$ where $n=1,2,3,4$ and so on
 Units: $Hz$
 The fundamental frequency is when $n=1$
-$v$ is the speed of sound in air
+$v$ is the speed of sound in air or $345\space m/s$
 
 **Closed Pipes:**
 Normal: $f_{n}=n*\frac{v}{4L}-nf_{1}$ where $n=1,2,3,4$ and so on

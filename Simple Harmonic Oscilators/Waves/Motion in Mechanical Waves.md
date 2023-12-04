@@ -6,9 +6,11 @@ tags:
 Frequency of a wave: $f=\frac{i}{T}$
 Angular Frequency: $\omega=2\pi{f}$, $\omega=\frac{{2\pi}}{T}$
 Velocity of a wave: $v=\lambda{f}$
+$\lambda_{n}=\frac{{2L}}{n}$
 $f$ is the frequency
 $\lambda$ is the wavelength
 $T$ is the period of the wave
+$n$ is the which mode the wave is in, i.e 1 or 2  
 
 In a rope with tension:
 Velocity: $V=\sqrt{\frac{F_{T}}{\mu}}$

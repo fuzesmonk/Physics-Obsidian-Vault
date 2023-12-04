@@ -8,23 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae9531542c37fbb3",
+            "id": "0b852b4b5c522c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Harmonic Oscillators.md",
+                "file": "Temperature and Heat.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e7161d0633b64b4",
+            "id": "44a73a3203bdcc30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md"
+              }
             }
           },
           {
@@ -173,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +195,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e7161d0633b64b4",
+  "active": "44a73a3203bdcc30",
   "lastOpenFiles": [
+    "CamScanner 12-04-2023 13.35.pdf",
+    "Unconfirmed 399910.crdownload",
+    "IMG_2733.jpeg",
+    "IMG_2733.jpeg.crdownload",
+    "Simple Harmonic Oscilators/Waves/Mechanical Waves.md",
+    "Simple Harmonic Oscilators/Waves/Modes of Waves.md",
+    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
+    "Simple Harmonic Oscilators/Waves/Periodic Waves.md",
+    "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
+    "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
+    "Temperature.md",
+    "Temperature and Heat.md",
+    "Energy/Potential Energy.md",
+    "Temperature and Heat",
+    "Radial Motion/Energy in Radial Motion.md",
+    "Energy/Kinetic Energy.md",
     "Simple Harmonic Oscillators.md",
+    "~WRL0796.tmp",
+    "~WRD0781.tmp",
     "Physics 210 Overview.md",
     "Radial Motion.md",
     "Orbital Mechanics.md",
@@ -203,23 +229,11 @@
     "Fluid Mechanics/Variation of Pressure with Depth.md",
     "Fluid Mechanics/Surface Tension.md",
     "Fluid Mechanics/Relative Density A.K.A Specific Gravity.md",
-    "Fluid Mechanics/Pascal's Law.md",
-    "Fluid Mechanics/Buoyancy.md",
-    "Fluid Mechanics/Density.md",
-    "Fluid Mechanics/Atmospheric Pressure.md",
     "Images/Pascal_s_law_Animated_and_explained_with_3d_program.mp4",
     "Images/2b414trmluj01.gif",
-    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
-    "Simple Harmonic Oscilators/Waves/Longitudinal Standing Waves.md",
-    "Simple Harmonic Oscilators/Waves/Modes of Waves.md",
-    "Newton's Laws/First Law.md",
-    "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
     "Images/tumblr_p0wwxoXFOi1qckzoqo1_540.webp",
     "Images/Pascal_s_law_Animated_and_explained_with_3d_program 1.mp4",
-    "Radial Motion/Torque.md",
     "Fluid Mechanics",
-    "Radial Motion/Circular Motion.md",
-    "Radial Motion/Power in Torque.md",
     "Images/Standing_wave.gif",
     "Images/Screenshot 2023-11-20 145135.png",
     "Images/Pasted Image 20231120145041_573.png",
@@ -227,12 +241,7 @@
     "Images/Dopplereffectsourcemovingrightatmach0.7.gif",
     "Untitled.canvas",
     "Simple Harmonic Oscilators/Waves",
-    "Material Properties",
-    "Simple Harmonic Oscilators",
     "Pasted image 20230912205114.png",
-    "Orbital Mechanics",
-    "Radial Motion",
-    "37379B00",
     "Physics 210/images/slapscar.png"
   ]
 }
