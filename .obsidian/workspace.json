@@ -13,19 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temperature and Heat.md",
+                "file": "Thermal Dynamics/Temperature and Heat/Temperature and Heat.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "44a73a3203bdcc30",
+            "id": "0986056de8084c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
+                "file": "Thermal Dynamics/Temperature and Heat/Heat Transfer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2d3c9831abb16a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermal Dynamics/Temperature and Heat/Latent Heat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b333c5cb3c7233ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermal Dynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
+                "file": "Thermal Dynamics/Temperature and Heat/Heat Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
+                "file": "Thermal Dynamics/Temperature and Heat/Heat Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md"
+                "file": "Thermal Dynamics/Temperature and Heat/Heat Transfer.md"
               }
             }
           },
@@ -195,8 +219,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44a73a3203bdcc30",
+  "active": "0986056de8084c2a",
   "lastOpenFiles": [
+    "Thermal Dynamics/Temperature and Heat/Latent Heat.md",
+    "Thermal Dynamics/Temperature and Heat/Heat Transfer.md",
+    "therUntitled.md",
+    "Thermal Dynamics.md",
+    "Thermal Dynamics/Temperature and Heat/Temperature and Heat.md",
+    "Thermal Dynamics",
+    "Fluid Mechanics/Density.md",
+    "Energy/Work.md",
+    "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
     "CamScanner 12-04-2023 13.35.pdf",
     "Unconfirmed 399910.crdownload",
     "IMG_2733.jpeg",
@@ -206,11 +239,9 @@
     "Simple Harmonic Oscilators/Waves/Standing Waves.md",
     "Simple Harmonic Oscilators/Waves/Periodic Waves.md",
     "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
-    "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
     "Temperature.md",
-    "Temperature and Heat.md",
     "Energy/Potential Energy.md",
-    "Temperature and Heat",
+    "Thermal Dynamics/Temperature and Heat",
     "Radial Motion/Energy in Radial Motion.md",
     "Energy/Kinetic Energy.md",
     "Simple Harmonic Oscillators.md",
@@ -224,11 +255,6 @@
     "Waves.md",
     "Fluid Mechanics/Hydrostatic Pressure.md",
     "Motion/Projectile Motion.md",
-    "Energy.md",
-    "Fluid Mechanics/Fluid Flow.md",
-    "Fluid Mechanics/Variation of Pressure with Depth.md",
-    "Fluid Mechanics/Surface Tension.md",
-    "Fluid Mechanics/Relative Density A.K.A Specific Gravity.md",
     "Images/Pascal_s_law_Animated_and_explained_with_3d_program.mp4",
     "Images/2b414trmluj01.gif",
     "Images/tumblr_p0wwxoXFOi1qckzoqo1_540.webp",
@@ -237,10 +263,8 @@
     "Images/Standing_wave.gif",
     "Images/Screenshot 2023-11-20 145135.png",
     "Images/Pasted Image 20231120145041_573.png",
-    "Images",
     "Images/Dopplereffectsourcemovingrightatmach0.7.gif",
     "Untitled.canvas",
-    "Simple Harmonic Oscilators/Waves",
     "Pasted image 20230912205114.png",
     "Physics 210/images/slapscar.png"
   ]
