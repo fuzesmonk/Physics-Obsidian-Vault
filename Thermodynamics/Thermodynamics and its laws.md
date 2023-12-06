@@ -1,3 +1,7 @@
+---
+tags:
+  - Thermodynamics
+---
 What is thermodynamics?
 Thermodynamics is the study of energy transfer that involves work and heat that can result in property changes such as internal energy, temperature, volume and pressure of the system being studied.
 
