@@ -11,3 +11,9 @@ $T,t$ are in seconds
 $y(x,t)$ represents a sinusoidal wave traveling in the $+x$ dimension
 It is the transverse displacement of the string as a function of both position on the string and time
 
+$v=\frac{\lambda}{T}$
+$T$ is one period
+$\lambda$ is the wavelength
+
+
+

@@ -10,7 +10,7 @@ $\lambda_{n}=\frac{{2L}}{n}$
 $f$ is the frequency
 $\lambda$ is the wavelength
 $T$ is the period of the wave
-$n$ is the which mode the wave is in, i.e 1 or 2  
+$n$ is the which mode the wave is in, i.e. 1 or 2  
 
 In a rope with tension:
 Velocity: $V=\sqrt{\frac{F_{T}}{\mu}}$

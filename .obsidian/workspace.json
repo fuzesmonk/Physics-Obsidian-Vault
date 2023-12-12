@@ -11,8 +11,12 @@
             "id": "d692d5ca1f2f118a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md"
+              }
             }
           },
           {
@@ -176,43 +184,43 @@
   },
   "active": "d692d5ca1f2f118a",
   "lastOpenFiles": [
+    "Simple Harmonic Oscilators/Waves/Periodic Waves.md",
+    "Simple Harmonic Oscilators/Waves/Mechanical Waves.md",
+    "Simple Harmonic Oscilators/Waves/Longitudinal Standing Waves.md",
+    "Simple Harmonic Oscilators/Waves/Interference in Waves.md",
+    "Simple Harmonic Oscilators/Waves/Energy in Mechanical Waves.md",
+    "Simple Harmonic Oscilators/Waves/Modes of Waves.md",
+    "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
+    "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
+    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
+    "Simple Harmonic Oscilators/Oscillation.md",
+    "Simple Harmonic Oscilators/Waves/Superposition of Waves.md",
+    "Thermodynamics/Temperature and Heat/Heat Transfer.md",
+    "Thermodynamics/Temperature and Heat/Latent Heat.md",
+    "Simple Harmonic Oscilators/Energy in SHOs.md",
+    "Simple Harmonic Oscilators/Frequency & Period in SHOs.md",
+    "Simple Harmonic Oscilators/Simple Pendulum.md",
+    "Simple Harmonic Oscilators/Springs.md",
+    "Simple Harmonic Oscilators/Big Three Equations in SHOs.md",
+    "Waves.md",
     "Collisions.md",
     "Thermodynamics.md",
     "Fluid Mechanics.md",
     "Thermodynamics/Thermodynamics and its laws.md",
     "Newton's Laws.md",
     "Temperature and Heat.md",
-    "Thermodynamics/Temperature and Heat/Latent Heat.md",
     "Physics 210 Overview.md",
-    "Thermodynamics/Temperature and Heat/Temperature.md",
-    "Equation solving.md",
-    "Thermodynamics/Temperature and Heat/Heat Transfer.md",
     "Thermodynamics/Temperature and Heat",
     "Thermodynamics",
     "Images/pv-diagram-of-real-non-polar-fluid-with-its-isotherms.png",
     "Images/IMG_2733.jpeg",
     "Images/CamScanner 12-04-2023 13.35.pdf",
-    "Thermal Dynamics/Temperature and Heat/Latent Heat.md",
-    "Thermal Dynamics/Temperature and Heat/Heat Transfer.md",
-    "README.md",
-    "therUntitled.md",
-    "Thermal Dynamics/Temperature and Heat/Temperature and Heat.md",
     "Thermal Dynamics",
-    "Fluid Mechanics/Density.md",
-    "Energy/Work.md",
-    "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
     "CamScanner 12-04-2023 13.35.pdf",
     "Unconfirmed 399910.crdownload",
     "IMG_2733.jpeg",
     "IMG_2733.jpeg.crdownload",
-    "Simple Harmonic Oscilators/Waves/Mechanical Waves.md",
-    "Simple Harmonic Oscilators/Waves/Modes of Waves.md",
-    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
-    "Simple Harmonic Oscilators/Waves/Periodic Waves.md",
-    "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
-    "Energy/Potential Energy.md",
     "Thermal Dynamics/Temperature and Heat",
-    "Radial Motion/Energy in Radial Motion.md",
     "~WRL0796.tmp",
     "~WRD0781.tmp",
     "Images/2b414trmluj01.gif",
