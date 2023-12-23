@@ -1,6 +1,6 @@
 ---
 tags:
-  - Thermodynamics
+  - TempHeat
 ---
 What is thermodynamics?
 Thermodynamics is the study of energy transfer that involves work and heat that can result in property changes such as internal energy, temperature, volume and pressure of the system being studied.
@@ -38,6 +38,6 @@ If a positive amount of work is done: The work done on the gas by its surroundin
 
 If a negative amount of work is done: The work done by the gas on its surroundings increases the volume of the container
 
-Referring to [[Fluid Mechanics]]:
+Referring to Fluid Mechanics:
 If the pressure stays constant, then work can be found by using $W=-P\Delta{v}$
 If the pressure changes, then work can be found using an integral to find the area under the curve

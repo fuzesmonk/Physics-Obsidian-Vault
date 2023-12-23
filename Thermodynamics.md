@@ -3,6 +3,7 @@ tags:
   - TopLevel
   - TempHeat
 ---
+[[Thermodynamics and its laws]]
 Thermal Energy: Energy that an object contains due to the random motion of its molecules
 
 [[Temperature]]: Measure of concentration of an object's internal energy

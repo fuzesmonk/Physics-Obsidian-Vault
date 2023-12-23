@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Harmonic Oscilators/Waves/Standing Waves.md"
+                "file": "README.md"
               }
             }
           },
@@ -184,6 +184,22 @@
   },
   "active": "d692d5ca1f2f118a",
   "lastOpenFiles": [
+    "Thermodynamics/Temperature and Heat/Thermodynamics and its laws.md",
+    "Fluid Mechanics.md",
+    "Thermodynamics.md",
+    "Fluid Mechanics/Buoyancy.md",
+    "Translational and Rotational Quantities Compared.md",
+    "Motion/Collisions.md",
+    "Thermodynamics/Temperature and Heat/Temperature.md",
+    "Fluid Mechanics/Relative Density A.K.A Specific Gravity.md",
+    "Motion.md",
+    "Thermodynamics/Temperature and Heat/Latent Heat.md",
+    "Radial Motion/Torque.md",
+    "Orbital Mechanics/Gravitational Acceleration.md",
+    "Orbital Mechanics/Newton's Law of Gravitation.md",
+    "Orbital Mechanics/Period of an orbit.md",
+    "Orbital Mechanics/Satellite Motion.md",
+    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
     "Simple Harmonic Oscilators/Waves/Periodic Waves.md",
     "Simple Harmonic Oscilators/Waves/Mechanical Waves.md",
     "Simple Harmonic Oscilators/Waves/Longitudinal Standing Waves.md",
@@ -192,24 +208,8 @@
     "Simple Harmonic Oscilators/Waves/Modes of Waves.md",
     "Simple Harmonic Oscilators/Waves/Motion in Mechanical Waves.md",
     "Simple Harmonic Oscilators/Waves/Sound and Hearing.md",
-    "Simple Harmonic Oscilators/Waves/Standing Waves.md",
     "Simple Harmonic Oscilators/Oscillation.md",
     "Simple Harmonic Oscilators/Waves/Superposition of Waves.md",
-    "Thermodynamics/Temperature and Heat/Heat Transfer.md",
-    "Thermodynamics/Temperature and Heat/Latent Heat.md",
-    "Simple Harmonic Oscilators/Energy in SHOs.md",
-    "Simple Harmonic Oscilators/Frequency & Period in SHOs.md",
-    "Simple Harmonic Oscilators/Simple Pendulum.md",
-    "Simple Harmonic Oscilators/Springs.md",
-    "Simple Harmonic Oscilators/Big Three Equations in SHOs.md",
-    "Waves.md",
-    "Collisions.md",
-    "Thermodynamics.md",
-    "Fluid Mechanics.md",
-    "Thermodynamics/Thermodynamics and its laws.md",
-    "Newton's Laws.md",
-    "Temperature and Heat.md",
-    "Physics 210 Overview.md",
     "Thermodynamics/Temperature and Heat",
     "Thermodynamics",
     "Images/pv-diagram-of-real-non-polar-fluid-with-its-isotherms.png",

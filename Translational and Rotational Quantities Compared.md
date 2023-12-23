@@ -1,6 +1,7 @@
 ---
 tags:
   - TopLevel
+  - Torque
 ---
 |                           | Translational    | Connection                    | Rotational | 
 | ------------------------- | ----------------- | ----------------------------- | ------- | 
